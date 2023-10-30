@@ -44,7 +44,7 @@ You may choose **2012** as the time filter too.
 <p align="center">
   <img src="/image/Screenshot 2012_1.png" />
 <p align="center">
-  <img src="/image/Screenshot 2021_2.png" />
+  <img src="/image/Screenshot 2012_2.png" />
 
 ### Run globally
 You may visit ........... to access the online dashboard 
