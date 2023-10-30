@@ -38,7 +38,9 @@ Here if you select **2011** `year` as time filter.
   <img src="/image/Screenshot 2011_1.png" />
 <p align="center">
   <img src="/image/Screenshot 2011_2.png" />
+  
 You may choose **2012** as the time filter too.
+
 <p align="center">
   <img src="/image/Screenshot 2012_1.png" />
 <p align="center">
